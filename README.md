@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Final Year IT Student<br>💻 Working on ML + Web Projects<br>🧠 Building AI-based systems<br> 🏋️ On a self-growth + discipline journey
 
 
